@@ -5,6 +5,11 @@
 ### Table of contents
 
 
+
+### Something missing?
+Submit a pull request or open a new issue! If an issue is already open for the entry you want, +1 it or something, so others can guage its popularity. The more popular something appears, the more likely it'll be addressed first!
+
+
 ### Contributing
 First look at the issues to see what people want to know about. You'll have the greatest impact if you find out the origins of one of those! :)
 
