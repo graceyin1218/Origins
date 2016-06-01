@@ -14,8 +14,9 @@ Submit a pull request or open a new issue! If an issue is already open for the e
 First look at the issues to see what people want to know about. You'll have the greatest impact if you find out the origins of one of those! :)
 
 Some logistical things - when contributing...
- - Place your new entry in the appropriate folder! (Create a new one, if necessary) 
+ - Place your new entry in the appropriate folder (create a new one, if necessary) 
+ - Add a description of the thing whose origin you found
  - Add it to the Table of Contents 
- - Include where you found this info (a link or the title/author of a book)
+ - Sources!! (a link or the title/author of a book)
  
 Have fun! :D
