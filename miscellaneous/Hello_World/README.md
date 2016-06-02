@@ -12,5 +12,6 @@ He also "coined the term Unix" (Wikipedia).
 Sources:
 
 [Trikha](http://blog.hackerrank.com/the-history-of-hello-world/)
+
 [Wikipedia](https://en.wikipedia.org/wiki/Brian_Kernighan)
 
