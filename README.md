@@ -8,8 +8,13 @@ To be honest, I don't remember what prompted me to start this... All I remember 
 
 ### Table of contents (or maybe it's more of an Index?)
 
- - Hello World (miscellaneous)
+##### Sorting algorithms
+ - Bubble sort
+ - Quicksort
 
+##### Miscellaneous
+ - Hello World
+ - null pointer
 
 ### Something wrong or missing?
 
