@@ -3,7 +3,9 @@
 #### About
 
 
-
+Lots of people have already complained about how... unfortunate null pointers are, so I'll just leave you with some links: 
+- [http://dobegin.com/npe-hell/]
+- [https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/]
 
 #### Origin
 
@@ -19,3 +21,4 @@ Whoops...
 
 https://en.wikipedia.org/wiki/Null_pointer
 
+https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/
