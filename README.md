@@ -1,6 +1,5 @@
 # Origins
 
-
 ### About
 
 This is a collection of the origins of various serious and not-so-serious terms that most programmers have encountered. Theoretically. I initially wanted this to be a wiki ('cause hyperlinks are nice), but submitting pull requests on wikis doesn't appear to be a thing...
